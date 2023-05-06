@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sla6 {
+public class quadrante {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double x = input.nextDouble();
