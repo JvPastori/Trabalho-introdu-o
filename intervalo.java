@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class sla3{
+public class intervalo{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         double a= sc.nextDouble();
