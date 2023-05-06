@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sla7 {
+public class sort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
