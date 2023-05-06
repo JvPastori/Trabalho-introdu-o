@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class  sla5 {
+public class  media {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
